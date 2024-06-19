@@ -1,1 +1,25 @@
+#This lecture is usefull in this i have learned about Key skills and tools in data science rule
+Major Roles in Data domain
+1. Data EAnalyst
+skills: sql,Excel,data visualization, basic statistical knowledge.
 
+2.Data Scientist
+Skills: Programming (Python/R),machine learning, advanced stastistics, data wrangling.
+
+3.Machine learning engineer
+skills:Deep learning,algorithm optimization, programming software engineering.
+
+4.Data Engineer
+skills:database management,ETL processes,big data technologies,data piplines.
+
+5.Business Intelligence Analyst
+Skills:Data analysis,BI tools(Tableau,powerBI),business Knowledge.
+
+Programming Languages
+Python (Python 3.12.3 documentation)
+R(R:Documentation)
+
+Tools
+Anaconda(Anaconda.Navigator)
+Google colab/jupyter
+Git Version Control
