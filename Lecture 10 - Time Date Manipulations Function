@@ -21,6 +21,9 @@ WEEKDAY Function:Gives exact day.
 Syntax: =WEEKDAY(serial number) it will return in the date formate so after that go to the formate cell then general formate to return exact day.
 
 HOUR FUNCTION:Return exact hour.
-Syntax: HOUR(
+Syntax: HOUR(Date and Time)
+
+MINUTE FUNCTION: Return Minute.
+Syntax: MINUTE()
 
 
